@@ -1,4 +1,3 @@
-import React from "react";
 import Container from "./container";
 import { motion, m } from "framer-motion";
 import { useInView } from "react-intersection-observer";
