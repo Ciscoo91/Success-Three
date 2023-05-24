@@ -29,7 +29,7 @@
     "eslint-config-next": "^13.2.4",
     "framer-motion": "^10.3.0",
     "next": "^13.2.4",
-    "next-seo": "^4.26.0",
+    "next-seo": "^6.0.0",
     "postcss-import": "^14.0.0",
     "postcss-nested": "^5.0.5",
     "postcss-preset-env": "^6.7.0",
