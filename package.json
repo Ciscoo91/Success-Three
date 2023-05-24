@@ -39,6 +39,8 @@
     "react-scroll": "^1.8.9"
   },
   "devDependencies": {
+    "@types/react": "^18.2.7",
+    "@types/react-dom": "^18.2.4",
     "autoprefixer": "^10.4.2",
     "eslint": "8.36.0",
     "postcss": "^8.4.5",
